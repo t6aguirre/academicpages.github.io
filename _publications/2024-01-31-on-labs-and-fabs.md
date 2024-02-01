@@ -6,7 +6,7 @@ excerpt: 'This report evaluates the AI supply chain's current state, focusing on
 date: 2024-01-31
 venue: 'Preliminary Report'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation:  'Aguirre, Tomás. (2024). &quot;On Labs and Fabs: Alliances, Acquisitions, and Antitrust in the Frontier AI Industry.&quot; <i>Preliminary Report</i>.'
+citation:  'Aguirre, Tomás. (2024). &quot;On Labs and Fabs Alliances, Acquisitions, and Antitrust in the Frontier AI Industry.&quot; <i>Preliminary Report</i>.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
