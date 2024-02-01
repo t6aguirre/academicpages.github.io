@@ -2,7 +2,7 @@
 title: "On Labs and Fabs: Alliances, Acquisitions, and Antitrust in the Frontier AI Industry"
 collection: publications
 permalink: /publication/2024-01-31-on-labs-and-fabs
-excerpt: 'This report evaluates the AI supply chain's current state, focusing on vertical relations and strategic partnerships, to understand the implications of governance interventions like antitrust.'
+excerpt: 'This report evaluates the AI supply chain-s current state, focusing on vertical relations and strategic partnerships, to understand the implications of governance interventions like antitrust.'
 date: 2024-01-31
 venue: 'Preliminary Report'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
