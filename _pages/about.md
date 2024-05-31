@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**Tomás Aguirre Lessa Vaz**
 
 I am an Economics student at the University of São Paulo (USP), set to graduate in 2024. With a passion for AI governance, industrial organization, and public economics, I have gained substantial experience as a research assistant in various projects, ranging from economic history to AI market dynamics. My technical skills include proficiency in Python, R, SQL, and Stata, among others.
 
